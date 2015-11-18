@@ -1,0 +1,15 @@
+bower_components
+node_modules
+VagrantFile
+.vagrant
+build
+dist
+venv
+
+website/static/css
+
+.DS_Store
+.idea
+__pycache__
+
+*.mo
